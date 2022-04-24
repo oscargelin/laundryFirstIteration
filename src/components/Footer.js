@@ -5,6 +5,7 @@ const Footer = () => {
         <li>dot</li>
         <li>dot</li>
         <li>dot</li>
+        <li>dot</li>
       </ul>
     </div>
   );
